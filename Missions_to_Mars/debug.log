@@ -1,0 +1,24 @@
+[0609/163116.895:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0609/163117.063:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0609/163117.135:ERROR:exception_snapshot_win.cc(98)] thread ID 21892 not found in process
+[0609/163117.514:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0609/163117.514:ERROR:exception_snapshot_win.cc(98)] thread ID 29556 not found in process
+[0618/181931.149:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0618/181931.658:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.149:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0618/181931.659:ERROR:exception_snapshot_win.cc(98)] thread ID 19532 not found in process
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0618/181931.659:ERROR:exception_snapshot_win.cc(98)] thread ID 7500 not found in process
+[0618/181931.660:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0618/181931.659:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
